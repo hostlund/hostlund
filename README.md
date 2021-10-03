@@ -4,8 +4,6 @@
 
 a web developer from Sweden.
 
----
-
 You can find me here:
 [Twitter](http://twitter.com/ostlund)
 [LinkedIn](http://www.linkedin.com/in/henrikostlund)
