@@ -14,8 +14,10 @@ You can find me here:
 [Travel (Swe)](http://resor.myworld.se/)
 [Östlund.info](https://östlund.info/)
 
+---
+
+## My stats
 
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=hostlund)](https://github.com/hostlund)
-
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hostlund)](https://github.com/hostlund)
